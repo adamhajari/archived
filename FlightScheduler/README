@@ -1,0 +1,4 @@
+FlightScheduler uses a shortest path algorithm to calculate the shortest flight path between
+any two cities.  FlightScheduler takes 3 arguments: (1)a list of all airport codes and their timezone relative to gmt, (2)a list of flights (flight#, departure city/time, arrival city/time), and (3)a flight query listing one start city followed by one or more destination from that starting city.  
+
+An airport.txt file, 2 flight files (flight.txt and flight-large.txt), and 3 query files (query1.txt, query2.txt, adn query3.txt) are included to facilitate easy testing of the programming and as a template for new lists.

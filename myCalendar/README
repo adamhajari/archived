@@ -1,0 +1,11 @@
+myCalendar:
+
+myCalendar is an online calendar database. Dates and events are displayed in a 
+familiar calendar table. Clicking on a day allows users to view the details of 
+the events on that day, or add new events. Toggling between months can be done 
+with the buttons at the top of the page. The site is written in PHP and javaScript 
+and users and events are manged with MySQL.
+
+try it out at: http://ec2-50-16-5-223.compute-1.amazonaws.com/~hajari/javaScript/calendar/
+Registering is easy, but if you just want to try out myCalendar you can log in with 
+username: guest and password: password 
