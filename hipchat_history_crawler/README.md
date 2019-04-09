@@ -31,7 +31,7 @@ python hipchat_crawler.py --cookie_file=cookie.txt --begin=20140101 --end=201412
 
 ## Install dependencies:
 ```bash
-sudo pip install httplib2
-sudo pip install html5lib
-sudo pip install beautifulsoup4
+pip install httplib2
+pip install html5lib
+pip install beautifulsoup4
 ```
